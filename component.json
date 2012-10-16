@@ -2,8 +2,9 @@
   "name": "standarize",
   "repo": "retrofox/standarize",
   "description": "Standarize a string",
-  "version": "0.0.1",
-  "keywords": [],
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "version": "0.1.0",
+  "keywords": ["string", "standarize"],
   "dependencies": {},
   "development": {},
   "scripts": [
