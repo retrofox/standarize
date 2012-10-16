@@ -1,0 +1,5 @@
+
+# standarize
+
+  Standarize a string
+
