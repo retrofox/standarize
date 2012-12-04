@@ -1,7 +1,7 @@
 {
   "name": "standarize-component",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
   },
   "devDependencies": {
@@ -10,7 +10,7 @@
   },
   "component": {
     "scripts": {
-      "standarize": "index.js"
+      "standarize/index.js": "index.js"
     }
   }
 }
