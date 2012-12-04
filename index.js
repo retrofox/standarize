@@ -2,6 +2,7 @@
  * Replaces special characters with their ascii standard equivalents
  *
  * @param {String} str
+ * @return {String} standarized text
  * @api public
  */
 
