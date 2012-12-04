@@ -1,7 +1,7 @@
 
 # Standarize
 
-  String standarize utility
+  String standarize utility. [Testing page](http://retrofox.github.com/standarize)
 
 ## Installation
 
