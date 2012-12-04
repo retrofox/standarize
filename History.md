@@ -1,4 +1,11 @@
 
+0.1.1 / 2012-12-04 
+==================
+
+  * test: add client-side testing page
+  * make: add `testall` rule
+  * npm: add component reference
+
 0.1.0 / 2012-10-16 
 ==================
 
