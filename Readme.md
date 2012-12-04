@@ -7,7 +7,7 @@
 
 ```
 $ npm install standarize
-$ component install component/standarize
+$ component install retrofox/standarize
 ```
 
 ## API
